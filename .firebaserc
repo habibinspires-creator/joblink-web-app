@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "joblink-habib-844c4"
+  },
+  "targets": {
+    "joblink-habib-844c4": {
+      "hosting": {
+        "abu-site": [
+          "joblink-abu"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">JobLink</string>
+    <string name="title_activity_main">JobLink</string>
+    <string name="package_name">com.habib.joblink</string>
+    <string name="custom_url_scheme">com.habib.joblink</string>
+</resources>
